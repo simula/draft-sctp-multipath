@@ -5,25 +5,10 @@
 <!ENTITY nbhy "&#8209;">
 <!ENTITY wj "&#8288;">
 ]>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="exp" ipr="trust200902" docName="draft-tuexen-tsvwg-sctp-multipath-26" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" symRefs="false" version="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="exp" ipr="trust200902" docName="draft-tuexen-tsvwg-sctp-multipath-28" obsoletes="" updates="" submissionType="IETF" xml:lang="en" tocInclude="true" symRefs="false" version="3">
   <front>
     <title abbrev="Load Sharing for SCTP">Load Sharing for the Stream Control Transmission Protocol (SCTP)</title>
-    <seriesInfo name="Internet-Draft" value="draft-tuexen-tsvwg-sctp-multipath-26"/>
-    <author initials="P. D." surname="Amer" fullname="Paul D. Amer">
-      <organization abbrev="University of Delaware">University of Delaware, Computer and Information Sciences Department</organization>
-      <address>
-        <postal>
-          <street/>
-          <city>Newark</city>
-          <region>Delaware</region>
-          <code>19716</code>
-          <country>United States of America</country>
-        </postal>
-        <phone>+1-302-831-1944</phone>
-        <email>amer@cis.udel.edu</email>
-        <uri>https://www.eecis.udel.edu/~amer/</uri>
-      </address>
-    </author>
+    <seriesInfo name="Internet-Draft" value="draft-tuexen-tsvwg-sctp-multipath-28"/>
     <author initials="M." surname="Becke" fullname="Martin Becke">
       <organization abbrev="HAW Hamburg">HAW Hamburg, Informatics Department</organization>
       <address>
@@ -1142,6 +1127,7 @@ in addition to the ones given in <xref target="RFC4960" format="default"/>.</t>
     <section anchor="acks" numbered="true" toc="default">
       <name>Acknowledgments</name>
       <t>The authors wish to thank
+Paul D. Amer,
 Hakim Adhari,
 Phillip Conrad,
 Jonathan Leighton,
